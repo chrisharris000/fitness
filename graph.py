@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import matplotlib.figure as fig
 import datetime
 
-#csv in format of date,distance,steps
+#csv in format of date,distance,steps and must be in the same directory as this file
 
 file = 'stats.csv'
 data = []
